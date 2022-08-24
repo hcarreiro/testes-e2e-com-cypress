@@ -1,4 +1,7 @@
 {
+    "env": {
+        "viewportWidthBreakpoint": 768
+    },
     "defaultCommandTimeout": 10000,
     "baseUrl": "https://notes-serverless-app.com/",
     "experimentalSessionAndOrigin": true,
